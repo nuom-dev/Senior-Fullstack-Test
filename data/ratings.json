@@ -1,0 +1,42 @@
+[
+  {
+    "user": "john",
+    "dog": "Fido",
+    "rating": 4
+  },
+  {
+    "user": "john",
+    "dog": "Rex",
+    "rating": 5
+  },
+  {
+    "user": "jane",
+    "dog": "Duke",
+    "rating": 3
+  },
+  {
+    "user": "jane",
+    "dog": "Pepper",
+    "rating": 5
+  },
+  {
+    "user": "jane",
+    "dog": "Max",
+    "rating": 1
+  },
+  {
+    "user": "bob",
+    "dog": "Max",
+    "rating": 5
+  },
+  {
+    "user": "bob",
+    "dog": "Rocky",
+    "rating": 4
+  },
+  {
+    "user": "bob",
+    "dog": "Comet",
+    "rating": 1
+  }
+]

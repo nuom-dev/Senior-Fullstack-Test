@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Fido",
+    "breed": "Labrador",
+    "description": "A friendly Labrador",
+    "url": "https://images.dog.ceo/breeds/labrador/n02099712_4705.jpg",
+    "size": "large",
+    "color": "brown",
+    "tags": [
+      "cuddly",
+      "friendly",
+      "playful"
+    ]
+  },
+  {
+    "name": "Comet",
+    "breed": "Shiba",
+    "description": "Loyal Shiba that will keep you company",
+    "url": "https://images.dog.ceo/breeds/shiba/shiba-1.jpg",
+    "color": "brown",
+    "size": "medium",
+    "tags": [
+      "playful",
+      "loyal"
+    ]
+  },
+  {
+    "name": "Duke",
+    "breed": "English Bulldog",
+    "description": "English Bulldog who loves to cuddle",
+    "url": "https://images.dog.ceo/breeds/bulldog-english/jager-2.jpg",
+    "size": "small",
+    "color": "brown",
+    "tags": [
+      "cuddly"
+    ]
+  },
+  {
+    "name": "Rocky",
+    "breed": "Husky",
+    "description": "Cute Husky that cna play for hours",
+    "url": "https://images.dog.ceo/breeds/husky/n02110185_14061.jpg",
+    "size": "large",
+    "color": "grey",
+    "tags": [
+      "cute",
+      "playful"
+    ]
+  },
+  {
+    "name": "Rex",
+    "breed": "Labrador",
+    "description": "This loyal Labrador is a true friend",
+    "url": "https://images.dog.ceo/breeds/labrador/n02099712_4705.jpg",
+    "size": "large",
+    "color": "White",
+    "tags": [
+      "playful",
+      "cuddly",
+      "loyal"
+    ]
+  },
+  {
+    "name": "Max",
+    "breed": "Husky",
+    "description": "Husky that will never leave your side",
+    "url": "https://images.dog.ceo/breeds/husky/n02110185_3328.jpg",
+    "size": "large",
+    "color": "grey",
+    "tags": [
+      "loyal",
+      "playful"
+    ]
+  },
+  {
+    "name": "Pepper",
+    "breed": "Cockapoo",
+    "description": "This Cockapoo is a true friend",
+    "url": "https://images.dog.ceo/breeds/cockapoo/big-eye-ginger.jpg",
+    "size": "large",
+    "color": "ginger",
+    "tags": [
+      "loyal",
+      "cuddly"
+    ]
+  }
+]
