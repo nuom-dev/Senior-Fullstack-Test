@@ -38,9 +38,10 @@ The dogs are rated by the users on a scale of 1 to 5.
 
 
 ## How to submit:
-* Create a Fork of this repository. It is recommended to keep it private.
+* Create a Github repository. It is recommended to keep it private.
 * Once you are done, send a link to your repository by email to Loic
-* Add *loicNuom* as a collaborator so the code cna be reviewed
+* Add *loicNuom* as a collaborator so the code can be reviewed
+* Book a time slot with Loic for the technical interview
 
 
 ## Final note
