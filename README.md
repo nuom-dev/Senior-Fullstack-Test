@@ -31,8 +31,7 @@ The dogs are rated by the users on a scale of 1 to 5.
 ## Requirements
 - When the backend load, it should initialise the database with the data found in the `data` folder.
 - A user should be able to rate a dog on a scale of 1 to 5 that is already in the database.
-- A user should be able to add a new dog to the database with a rating.
-- The application should recommend dogs that a user hasn't rated yet based on the user previous ratings.
+- The application should recommend dogs to users. It should take into account previous ratings in order to recommend a dog. This is the main task of this project and most of your time should be spent on this.
 - Authentication is not required for this project.
 
 
